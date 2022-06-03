@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10119213-TriTafriyadi</string>
+    <string name="form_pengisian_data">Form Pengisian Data</string>
+    <string name="jenis_tes">Jenis tes</string>
+    <string name="rapid_antigen">Rapid Antigen</string>
+    <string name="pcr">PCR</string>
+    <string name="tanggal_terkonfirmasi">Tanggal Terkonfirmasi</string>
+    <string name="pilih_tanggal">Pilih tanggal</string>
+    <string name="nik">NIK</string>
+    <string name="masukkan_nik">Masukkan NIK</string>
+    <string name="nama">NAMA</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="hubungan_dengan_anda">Hubungan Dengan Anda</string>
+    <string name="orang_tua">Orang Tua</string>
+    <string name="suami_istri">Suami/Istri</string>
+    <string name="anak">Anak</string>
+    <string name="kerabat_lainnya">Kerabat Lainnya</string>
+</resources>
